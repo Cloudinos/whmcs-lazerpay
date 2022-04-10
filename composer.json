@@ -1,0 +1,29 @@
+{
+    "name": "coderatio/whmcs-lazerpay",
+    "description": "A payment gateway module module for WHMCS powered by LazerPay",
+    "keywords": [
+        "whmcs",
+        "lazerpay",
+        "coderatio",
+        "josiah yahaya",
+        "cloudinos costing",
+        "third party gateway module",
+        "gateway module",
+        "third party gateway"
+    ],
+    "homepage": "https://www.cloudinos.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cloudinos Development Team",
+            "email": "dev@cloudinos.com",
+            "homepage": "https://www.cloudinos.com/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "support@cloudinos.com",
+        "facebook": "https://facebook.com/cloudinos",
+        "twitter": "https://twitter.com/cloudinos/"
+    }
+}
